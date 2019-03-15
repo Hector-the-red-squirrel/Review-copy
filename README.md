@@ -14,4 +14,5 @@ Very first work. Looks at the entire vcf and determines ancestral allele and der
 Calculation of proportion of GC per 100k segments and compared it to mean R^2 of the corresponding segments.
 
 # Polistes - Intergenic
-Example file for annotated segment Odds ratio. Both Bombus and Polistes had their SNPs containing vcfs divdied into Synonymous, Non-Synonymous, Intergeic, and Intronic categories.
+Example file for annotated segment Odds ratio. Both Bombus and Polistes had their SNPs containing vcfs divdied into Synonymous, Non-Synonymous, Intergeic, and Intronic categories. The procedure done in 'Ancestral Allele Call' was repeated and OR was calculated per segment.
+  ** No intragenic file.
